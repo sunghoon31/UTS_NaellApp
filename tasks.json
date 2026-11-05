@@ -1,0 +1,22 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Start Expo Web",
+			"type": "shell",
+			"command": "npx",
+			"args": [
+				"expo",
+				"start",
+				"--web",
+				"--host",
+				"localhost",
+				"--port",
+				"8081"
+			],
+			"isBackground": true,
+			"problemMatcher": [],
+			"group": "build"
+		}
+	]
+}

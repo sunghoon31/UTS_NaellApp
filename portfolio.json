@@ -1,0 +1,72 @@
+[
+  {
+    "id": "calliandra",
+    "judul": "Sistem Informasi Penjualan, Pembelian, dan Persediaan Calliandra Home Living",
+    "ringkasan": "Aplikasi manajemen transaksi terintegrasi untuk pengelolaan stok barang, faktur pembelian, dan laporan penjualan UMKM.",
+    "deskripsi": "Sistem informasi berbasis web yang dirancang khusus untuk Calliandra Home Living dalam mengatasi ketidakteraturan pencatatan stok dan rekonsiliasi kas masuk-keluar. Memiliki modul dashboard analitik penjualan, pencatatan supplier, dan automasi peringatan stok minimum.",
+    "kategori": "Web",
+    "teknologi": ["React", "Node.js", "MySQL", "Tailwind CSS"],
+    "tahun": 2026,
+    "peran": "System Analyst & Frontend Developer",
+    "fitur": [
+      "Manajemen master data produk & varian",
+      "Pencatatan transaksi POS kasir kas & transfer",
+      "Perhitungan stok otomatis (FIFO) & reorder warning",
+      "Laporan laba rugi berkala dan ekspor PDF"
+    ],
+    "link": "https://github.com/naelulkirom/calliandra-pos"
+  },
+  {
+    "id": "surat-desa",
+    "judul": "Sistem Pelayanan Surat Online Desa Cileunyi Wetan",
+    "ringkasan": "Platform digital pengajuan dan verifikasi surat keterangan kependudukan untuk percepatan administrasi desa.",
+    "deskripsi": "Inisiatif digitalisasi administrasi desa guna memotong birokrasi manual dan antrean di kantor desa Cileunyi Wetan. Warga dapat mengajukan permohonan surat keterangan (SKCK, SKTM, Domisili) dengan melampirkan berkas digital, sementara perangkat desa memverifikasi secara berjenjang hingga penandatanganan QR code.",
+    "kategori": "Sistem Informasi",
+    "teknologi": ["PHP", "Laravel", "Bootstrap", "MySQL"],
+    "tahun": 2025,
+    "peran": "System Analyst & Database Designer",
+    "fitur": [
+      "Pengajuan permohonan surat online oleh warga",
+      "Verifikasi berkas bertingkat oleh RT/RW dan staf desa",
+      "Penerbitan surat otomatis ber-QR code validasi",
+      "Notifikasi status pengajuan surat"
+    ],
+    "link": "https://github.com/naelulkirom/surat-desa-cileunyi-wetan"
+  },
+  {
+    "id": "mobile-score",
+    "judul": "Personal CV & Academic Score Mobile App",
+    "ringkasan": "Aplikasi mobile profil interaktif, portofolio showcase, dan monitoring capaian akademik mahasiswa berbasis React Native Expo.",
+    "deskripsi": "Aplikasi mobile kelas industri yang mengimplementasikan arsitektur 5-lapisan (Data, Service, Hook, Screen, Component) dengan dukungan dual theme (Light/Dark), mock API berlatensi async, penyimpanan AsyncStorage, dan validasi form ketat.",
+    "kategori": "Mobile",
+    "teknologi": ["React Native", "Expo Router", "JavaScript", "AsyncStorage", "Jest"],
+    "tahun": 2026,
+    "peran": "Lead Mobile Developer",
+    "fitur": [
+      "Navigasi 6 Tab mulus dengan Expo Router",
+      "Dynamic Skills & Portfolio Gallery dengan pencarian instan",
+      "Monitoring skor akademik (89/A) & progress bar interaktif",
+      "Penyimpanan lokal preferensi tema dan pesan kontak",
+      "Pengujian unit otomatis dengan Jest"
+    ],
+    "link": "https://github.com/naelulkirom/UTS_NaelulApp"
+  },
+  {
+    "id": "pos-retail",
+    "judul": "Aplikasi Kasir & Inventori Retail Cerdas",
+    "ringkasan": "Solusi kasir berbasis tablet untuk pencatatan transaksi toko cepat dengan scanner barcode dan struk termal.",
+    "deskripsi": "Aplikasi kasir ringan yang dikembangkan untuk ritel lokal dalam memproses antrean panjang belanja harian. Mendukung pemindaian barcode kamera, diskon bertingkat, dan sinkronisasi data transaksi offline-to-online.",
+    "kategori": "Mobile",
+    "teknologi": ["React Native", "SQLite", "Expo Barcode", "Zustand"],
+    "tahun": 2025,
+    "peran": "Mobile Developer",
+    "fitur": [
+      "Scanning barcode produk instan",
+      "Pencetakan struk via bluetooth thermal printer",
+      "Pencatatan kas kasir dan tutup shift",
+      "Mode offline penyimpanan lokal SQLite"
+    ],
+    "link": "https://github.com/naelulkirom/smart-retail-pos"
+  }
+]
+

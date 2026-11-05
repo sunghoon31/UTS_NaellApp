@@ -1,0 +1,39 @@
+[
+  {
+    "id": "masoem",
+    "jenis": "pendidikan",
+    "judul": "S1 Sistem Informasi",
+    "instansi": "Universitas Ma'soem",
+    "periode": "2024 - Sekarang",
+    "deskripsi": "Fokus pada Rekayasa Perangkat Lunak, Analisis & Perancangan Sistem, Basis Data, dan Pengembangan Aplikasi Mobile.",
+    "keterangan": "IPK berjalan memuaskan, aktif dalam berbagai proyek praktikum pengembangan sistem informasi dan aplikasi cerdas."
+  },
+  {
+    "id": "himasi",
+    "jenis": "organisasi",
+    "judul": "Anggota Divisi Research & Development",
+    "instansi": "Himpunan Mahasiswa Sistem Informasi (HIMASI) Universitas Ma'soem",
+    "periode": "2024 - Sekarang",
+    "deskripsi": "Mengorganisir workshop teknologi, riset kurikulum programming mahasiswa, dan memfasilitasi kelompok belajar pengembangan mobile.",
+    "keterangan": "Menginisiasi program bimbingan sebaya untuk mata kuliah algoritma dan pemrograman web/mobile."
+  },
+  {
+    "id": "kepanitiaan-seminar",
+    "jenis": "organisasi",
+    "judul": "Koordinator Divisi IT & Logistik",
+    "instansi": "Seminar Nasional Teknologi Informasi & Bisnis Digital",
+    "periode": "2025",
+    "deskripsi": "Bertanggung jawab atas infrastruktur teknis, registrasi online peserta, dan kelancaran multimedia siaran langsung.",
+    "keterangan": "Mengelola lebih dari 350 peserta daring dan luring dengan tingkat kepuasan sistem registrasi 98%."
+  },
+  {
+    "id": "sma",
+    "jenis": "pendidikan",
+    "judul": "Sekolah Menengah Atas (MIPA)",
+    "instansi": "SMA Negeri 1 Rancaekek",
+    "periode": "2021 - 2024",
+    "deskripsi": "Peminatan Matematika dan Ilmu Pengetahuan Alam dengan keikutsertaan aktif dalam klub informatika dan sains sekolah.",
+    "keterangan": "Lulus dengan predikat sangat baik dan meraih prestasi olimpiade sains tingkat kabupaten."
+  }
+]
+
